@@ -1,0 +1,20 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/core": "7.12.3",
+    "axios": "^0.21.1",
+    "babel-loader": "8.2.1",
+    "effector": "./effector",
+    "effector-react": "./effector-react-local",
+    "next": "10.0.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
